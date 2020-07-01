@@ -1,4 +1,4 @@
-import streams from '../apis/streams'
+import streams from '../apis/streams';
 import { 
   SIGN_IN, 
   SIGN_OUT,
@@ -30,6 +30,7 @@ export const createStream = formValues => async (dispatch, getState) => {
     type: CREATE_STREAM, 
     payload: response.data 
   });
+
 };
 
 export const fetchStream = id => async dispatch => {
