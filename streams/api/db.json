@@ -1,3 +1,27 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "jojo",
+      "description": "marrant",
+      "userId": "107220809099354342174",
+      "id": 1
+    },
+    {
+      "title": "C'est encore mmarrant",
+      "description": "comme Benjamin en solex avec des cheveux",
+      "id": 2
+    },
+    {
+      "title": "morue",
+      "description": "moribonde avec trop de cheveux",
+      "userId": "107220809099354342174",
+      "id": 3
+    },
+    {
+      "title": "boum bim bam badoum",
+      "description": "ahlalalalalalalalala",
+      "userId": "107220809099354342174",
+      "id": 4
+    }
+  ]
 }
